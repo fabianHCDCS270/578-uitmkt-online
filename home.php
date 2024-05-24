@@ -8,7 +8,7 @@
 </head>
 <body>
 <!-- basic navigation-->
-<h1>welcome to bootstrap!</h1>
+<h1></h1>
 <script src="./dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
